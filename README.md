@@ -150,25 +150,6 @@ Built with **Streamlit** — deployed via **ngrok**
 
 ---
 
-## 📁 File Structure
-
-yoga-eeg-deep-learning/
-│
-├── analysis.py # Complete analysis pipeline
-├── yoga_eeg_app.py # Streamlit web application
-├── requirements.txt # All dependencies
-├── README.md # Project documentation
-│
-└── graphs/
-├── graph1_raw_eeg.png # Raw EEG signal before vs after
-├── graph2_band_powers.png # Band power comparison
-├── graph3_dashboard.png # Full analysis dashboard
-├── graph4_model_results.png # Model accuracy and confusion matrix
-└── graph5_shap_xai.png # SHAP XAI analysis
-
-
----
-
 ## 🚀 How to Run
 
 ### 1. Clone the repository
