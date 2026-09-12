@@ -1,0 +1,31 @@
+# EEG data files (too large for GitHub)
+eeg_data/
+*.edf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Model files (too large)
+*.h5
+*.pkl
+*.pt
+
+# Environment
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Colab specific
+sample_data/
